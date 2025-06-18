@@ -3,7 +3,7 @@ name: Android-Linux
 on:
   push:
     branches:
-      - "android/*"
+      - "*"
     paths-ignore:
       - "deploy/**"
       - "docs/**"
